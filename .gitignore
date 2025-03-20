@@ -1,0 +1,16 @@
+/_book/
+/node_modules/
+/book.pdf
+/book.mobi
+/book.epub
+**/*.cpython-*.pyc
+**/*-checkpoint.py
+**/.ipynb_checkpoints/
+**/*checkpoint.ipynb
+__pycache__/
+**/__pycache__/
+.vsdode/
+
+/student_files/results/*
+
+README.pdf
